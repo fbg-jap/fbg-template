@@ -40,10 +40,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 A template repo with standard settings to kick-off a new project
 
 Packages install:
-Tailwind v4
-Biome v2
-ShadCN/UI with Radix-UI & Lucide Icons
-Next-Themes (Dark/Light mode)
-Stack-Auth (Authentication)
-T3 ENV (env type-safe validation)
-Zod (validation)
+[Next.js 16](https://nextjs.org/)
+[Tailwind v4](https://tailwindcss.com/)
+[Biome](https://biomejs.dev/)
+[ShadCN/UI](https://ui.shadcn.com/)
+[Next-Themes](https://github.com/pacocoursey/next-themes)
+[Stack-Auth](https://stack-auth.com/)
+[T3 ENV](https://env.t3.gg/)
+[Zod](https://zod.dev/)

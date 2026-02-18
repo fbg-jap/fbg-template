@@ -34,4 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
 # fbg-template
+
+A template repo with standard settings to kick-off a new project
+
+Packages install:
+Tailwind v4
+Biome v2
+ShadCN/UI with Radix-UI & Lucide Icons
+Next-Themes (Dark/Light mode)
+Stack-Auth (Authentication)
+T3 ENV (env type-safe validation)
+Zod (validation)
